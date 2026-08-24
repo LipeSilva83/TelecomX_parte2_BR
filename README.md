@@ -44,7 +44,11 @@ Para replicar a análise e os modelos localmente ou na nuvem, siga os passos aba
 
 Clique no botão abaixo para abrir e executar o notebook diretamente no Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/LipeSilva83/TelecomX_parte2_BR/blob/main/CHALLENGE_TELECOMX_PT2.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LipeSilva83/TelecomX_parte2_BR/blob/main/CHALLENGE_TELECOMX_PT2.ipynb)
+
+📌 **Instruções adicionais:**
+1. Se preferir rodar localmente, certifique-se de ter instalado as dependências necessárias.
+2. O arquivo [CHALLENGE_TELECOMX_PT2.ipynb](https://github.com/LipeSilva83/TelecomX_parte2_BR/blob/main/CHALLENGE_TELECOMX_PT2.ipynb) contém toda a Análise Exploratória (EDA) e a modelagem preditiva do projeto.
 
 📢 **Instruções adicionais:**
 1. Se preferir rodar localmente, instale as dependências com `pip install -r requirements.txt`.
