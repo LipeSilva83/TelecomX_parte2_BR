@@ -44,11 +44,11 @@ Para replicar a análise e os modelos localmente ou na nuvem, siga os passos aba
 
 Clique no botão abaixo para abrir e executar o notebook diretamente no Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LipeSilva83/modelos-de-regress-o-linear/blob/main/analise_modelos_regressao_portfolio.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/LipeSilva83/TelecomX_parte2_BR/blob/main/CHALLENGE_TELECOMX_PT2.ipynb)
 
 📢 **Instruções adicionais:**
 1. Se preferir rodar localmente, instale as dependências com `pip install -r requirements.txt`.
-2. Execute o notebook `analise_modelos_regressao_portfolio.ipynb` para visualizar o pipeline e a EDA.
+2. Execute o notebook `CHALLENGE_TELECOMX_PT2.ipynb` para visualizar o pipeline e a EDA.
 
 
 # ✒️ Autor
