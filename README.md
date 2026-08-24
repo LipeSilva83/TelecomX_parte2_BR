@@ -40,9 +40,15 @@ Após a análise, o Random Forest Regressor demonstrou um desempenho superior, c
 Isso indica que o modelo de Random Forest conseguiu capturar melhor a complexidade e as relações nos dados, resultando em previsões mais acuradas.
 
 # 🚀 Como Rodar o Projeto
-Para replicar a análise e os modelos localmente, siga os passos abaixo.
+Para replicar a análise e os modelos localmente ou na nuvem, siga os passos abaixo.
 
-:loudspeaker:Você pode seguir os passos no notebook Python ([TelecomX_parte2_BR] (https://github.com/LipeSilva83/TelecomX_parte2_BR)). Certifique-se de ter as bibliotecas necessárias instaladas (pandas, matplotlib, seaborn).
+Clique no botão abaixo para abrir e executar o notebook diretamente no Google Colab:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LipeSilva83/modelos-de-regress-o-linear/blob/main/analise_modelos_regressao_portfolio.ipynb)
+
+📢 **Instruções adicionais:**
+1. Se preferir rodar localmente, instale as dependências com `pip install -r requirements.txt`.
+2. Execute o notebook `analise_modelos_regressao_portfolio.ipynb` para visualizar o pipeline e a EDA.
 
 
 # ✒️ Autor
